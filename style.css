@@ -4,5 +4,28 @@
 }
 
 body {
-	background: black;
+	background: green;
+}
+
+header {
+	background: url(http://pre02.deviantart.net/35cc/th/pre/f/2015/159/2/b/windoge_xp_by_p3rf3cthegyi-d8wj91b.png);
+	background-size: cover;
+	height: 100vh;
+
+}
+
+.title {
+	position: absolute;
+	top: 20%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color: blue;
+	text-align: center;
+	font-size: 3em;
+
+}
+
+#main {
+	wifth: 80%;
+	margin: 20px auto;
 }
